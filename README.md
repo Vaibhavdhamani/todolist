@@ -39,3 +39,7 @@ Add, view, edit, and delete tasks.
 Real-time Updates
 
 Implement WebSockets for live task updates.
+
+![Screenshot 2024-07-09 091332](https://github.com/Vaibhavdhamani/todolist/assets/146102180/de8d4723-aff3-48c0-b59b-9e3f0c06905f)
+
+
